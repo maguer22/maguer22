@@ -3,8 +3,8 @@
 > Testing blockquote
 
 >\0/
-> U
->/ \
+ U
+/ \
 
 Here are some ideas to get you started:
 
