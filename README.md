@@ -2,9 +2,9 @@
 
 > Testing blockquote
 
->\0/
- U
-/ \
+`\0/`
+` U `
+`/ \`
 
 Here are some ideas to get you started:
 
