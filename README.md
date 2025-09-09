@@ -44,13 +44,3 @@
 ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
 [![Header](marcus%20heiro.png "Marcus")](https://github.com/maguer22)
 
-<img align="center" src="https://raw.githubusercontent.com/maguer22/maguer22/refs/heads/main/marcus%20heiro.png" alt="Marcus">
-
-<img align="center" src="https://raw.githubusercontent.com/maguer22/maguer22/refs/heads/main/marcus%20heiro.png" alt="Marcus"/>
-
-<a href ="https://raw.githubusercontent.com/maguer22/maguer22/refs/heads/main/marcus%20heiro.png">
-    <img align="center" alt="Marcus" width="672px" src="https://raw.githubusercontent.com/maguer22/maguer22/refs/heads/main/marcus%20heiro.png" />
-</a>
-
-================================
-
