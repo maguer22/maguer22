@@ -43,7 +43,7 @@
 ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
 ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
 <a href ="https://raw.githubusercontent.com/maguer22/maguer22/refs/heads/main/marcus%20heiro.png">
-    <img align="center" alt="Marcus" src="https://raw.githubusercontent.com/maguer22/maguer22/refs/heads/main/marcus%20heiro.png" />
-
+    <img align="center" alt="Marcus" width="672px" src="https://raw.githubusercontent.com/maguer22/maguer22/refs/heads/main/marcus%20heiro.png" />
+</a>
 ![MARCUS](https://raw.githubusercontent.com/maguer22/maguer22/refs/heads/main/marcus%20heiro.png)
 
